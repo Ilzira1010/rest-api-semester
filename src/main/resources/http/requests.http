@@ -1,0 +1,15 @@
+#OPTIONS http://localhost:8080/users
+#
+####
+#GET http://localhost:8080/users
+#
+####
+#GET http://localhost:8080/podcasts/1
+#
+####
+#GET http://localhost:8080/podcasts
+####
+#GET http://localhost:8080/cat
+#
+####
+#GET http://localhost:8080/main/search?page=0&size=2&q=o&sort=title

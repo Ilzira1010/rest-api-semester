@@ -1,0 +1,16 @@
+POST http://localhost:8080/sites
+Content-Type: application/json
+
+{
+  "name": "Zolotov",
+  "status": true
+}
+
+###
+
+GET http://localhost:8080/sites
+
+###
+
+GET http://localhost:8080/users/2
+
